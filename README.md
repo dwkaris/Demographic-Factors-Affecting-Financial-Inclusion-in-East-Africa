@@ -5,28 +5,28 @@
 {IP WEEK 2} {MAY 3 2020}  BY {DUNCAN WACHIRA}
 
 
-##DESCRIPTION
+##DESCRIPTION 
 
-Defining the question
-Reading the data
-Check the data
-External data source Validation
-Exploratory Analysis
-Implementing the solution
-Challenging the solution
-Follow up questions
+-Defining the question
+-Reading the data
+-Check the data
+-External data source Validation
+-Exploratory Analysis
+-Implementing the solution
+-Challenging the solution
+-Follow up questions
 
 
-###CHALLENGES
+#CHALLENGES -
 {There are no big Challenges}
 
 
-##USED TECHNOLOGIES
+#USED TECHNOLOGIES
 
-{PYTHON}
-{MATPLOTLIB}
-{SEABORN}
+-{PYTHON}
+-{MATPLOTLIB}
+-{SEABORN}
 
 
 ##LICENCE
-MIT LICENCE WAS USED
+-MIT LICENCE WAS USED
