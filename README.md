@@ -8,14 +8,14 @@
 
 ## DESCRIPTION 
 
--Defining the question
--Reading the data
--Check the data
--External data source Validation
--Exploratory Analysis
--Implementing the solution
--Challenging the solution
--Follow up questions
+* Defining the question
+* Reading the data
+* Check the data
+* External data source Validation
+* Exploratory Analysis
+* Implementing the solution
+* Challenging the solution
+* Follow up questions
 
 
 ## CHALLENGES -
